@@ -106,7 +106,7 @@ def referer_list():
 
 	headers_referers.append('http://www.google.com/?q=')
 
-        headers_referers.append('https://www.usatoday.com/search/results?q=')
+        
 
 	headers_referers.append('http://engadget.search.aol.com/search?q=')
 	headers_referers.append('http://jigsaw.w3.org/css-validator/validator?uri=')
