@@ -111,10 +111,7 @@ def referer_list():
 	headers_referers.append('http://engadget.search.aol.com/search?q=')
 	headers_referers.append('http://jigsaw.w3.org/css-validator/validator?uri=')
 	headers_referers.append('https://add.my.yahoo.com/rss?url=')
-	headers_referers.append('http://www.google.com/?q=')
-	headers_referers.append('http://www.google.com/?q=')
-	headers_referers.append('http://www.google.com/?q=')
-	headers_referers.append('http://www.usatoday.com/search/results?q=')
+	
 	headers_referers.append('http://engadget.search.aol.com/search?q=')
 	headers_referers.append('https://steamcommunity.com/market/search?q=')
 	headers_referers.append('http://filehippo.com/search?q=')
